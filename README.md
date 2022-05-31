@@ -1,0 +1,1 @@
+A minimalist starting point as a Go development environment containerized with Docker, for easy use with VS-Code. 
